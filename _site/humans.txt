@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: Fresearch
+Contact: kigened@gmail.com
+Twitter: 
+Location: Eldoret, KE
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2014-04-08
+Standards: HTML, SCSS, Jekyll                        
+Software: git
