@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: Under The DOM
-description: "A gentle primer into the not-so-murky waters of JavaScript BY Dennis Kigen"
+description: "A gentle primer into the not-so-murky waters of JavaScript"
 categories: articles
 date: 2014-04-04
 tags: [firstpost, programming, javascript]
